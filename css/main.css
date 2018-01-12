@@ -125,3 +125,62 @@ section {
   color: #fff;
 }
 
+.header__button--green {
+  border-radius: 5px;
+  margin: 60px auto;
+  background-color: #2ecc71;
+  width: 150px;
+  text-align: center;
+  padding: 10px;
+}
+
+.header__button--green a {
+  display: block;
+  color: #fff;
+  cursor: pointer;
+}
+
+.section__services {
+  background-color: rgb(241, 124, 114);
+}
+
+.section__subtitle {
+  font-size: 2.5em;
+}
+
+.services__product img {
+  width: 200px;
+  height: 200px;
+}
+
+.services__product {
+  display: inline-block;
+  margin: 50px 80px;
+}
+
+.section__work {
+  text-align: center;
+}
+
+.product {
+  height: 250px;
+  width: 300px;
+  display: inline-block;
+  margin: 40px 30px;
+}
+
+.product img {
+  height: 100%;
+  width: 100%;
+}
+
+.product img ~ p {
+  font-weight: 700;
+}
+
+footer {
+  color: #fff;
+  text-align: center;
+  padding: 15px;
+  background-color: rgb(55, 59, 71);
+}
