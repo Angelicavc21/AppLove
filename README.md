@@ -4,9 +4,9 @@
 * **Curso:** _Creando tu primer sitio web interactivo_
 * **Unidad:** _Maquetado web con HTML & CSS_
 
-**
+***
 
-## Flujo de trabaj
+## Flujo de trabajo
 
  Empiecé por realizar un fork y clonar este repositorio
 
